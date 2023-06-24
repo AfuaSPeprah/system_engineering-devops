@@ -1,2 +1,2 @@
 #1/bin/bash
-ls -xamp
+-C -m school.mgc
